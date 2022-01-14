@@ -23,7 +23,7 @@ The PCB measures 60.5mm X 23.5mm.
 
 ## Installation
 
-Check the schematic for your variant of Videopac PCB, I'm led to beleive that different revisions have different IC references and locations.
+Check the schematic for your variant of Videopac PCB, I'm led to believe that different revisions have different IC references and locations.
 
 On the revision I tested with the IC are located as illustrated below (I had to desolder the shield to access IC679);
 
